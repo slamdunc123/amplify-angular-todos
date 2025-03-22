@@ -10,6 +10,11 @@
       "StackName": "amplify-amplifyangulartodos-dev-f9d22",
       "StackId": "arn:aws:cloudformation:eu-west-2:349204950142:stack/amplify-amplifyangulartodos-dev-f9d22/5fab5cb0-071c-11f0-acd5-02b33dd71299",
       "AmplifyAppId": "drij1e86k1i2z"
+    },
+    "categories": {
+      "api": {
+        "amplifyangulartodos": {}
+      }
     }
   }
 }
